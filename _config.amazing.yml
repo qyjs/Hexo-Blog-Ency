@@ -1,0 +1,201 @@
+version: 4.0.0
+variant: default
+logo: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/logo.png'
+head:
+    favicon: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/favicon.png'
+    open_graph:
+        title: FlyingFishSauce
+        type: blog
+        url: 'https://qyjs.github.io/'
+        image: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png'
+        site_name: DEMO
+        author: qyjs
+        description: qyjs
+        twitter_card: 
+        twitter_id: 
+        twitter_site: 
+        google_plus: 
+        fb_admins: 
+        fb_app_id: 
+    structured_data:
+        title: 
+        description: 
+        url: 
+        author: 
+        image: 
+    meta:
+        - ''
+    rss: 
+navbar:
+    menu:
+        首页: /
+        归档: /archives
+        分类: /categories
+        标签: /tags
+        音乐: /music
+        影音: /media
+        相册: /album
+        友链: /friend
+        碎碎念: /self-talking
+        留言: /message
+        关于: /about
+    links:
+        Join Gitter:
+            icon: fab fa-gitter
+            url: 'https://gitter.im/hexo-theme-amazing/community'
+        Download on GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/qyjs'
+footer:
+    links:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: 'https://creativecommons.org/'
+        Attribution 4.0 International:
+            icon: fab fa-creative-commons-by
+            url: 'https://creativecommons.org/licenses/by/4.0/'
+        Download on GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/removeif/hexo-theme-amazing'
+article:
+    highlight:
+        theme: atom-one-light
+        clipboard: true
+        fold: unfolded
+    readtime: true
+    licenses:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: 'https://creativecommons.org/'
+        Attribution:
+            icon: fab fa-creative-commons-by
+            url: 'https://creativecommons.org/licenses/by/4.0/'
+        Noncommercial:
+            icon: fab fa-creative-commons-nc
+            url: 'https://creativecommons.org/licenses/by-nc/4.0/'
+search:
+    type: insight
+comment:
+    type: gitalk
+    language: zh-CN
+    owner: qyjs
+    repo: blog_comment
+    client_id: 46a9f3481b46ea0129d8
+    client_secret: 79c7c9cb847e141757d7864453bcbf89f0655b24
+    admin:
+        - qyjs
+    create_issue_manually: true
+    distraction_free_mode: false
+    has_hot_recommend: true
+    has_latest_comment: true
+donates:
+    -
+        type: alipay
+        qrcode: 'https://raw.githubusercontent.com/removeif/blog_image/master/img/2019/20190802135456.png'
+    -
+        type: wechat
+        qrcode: 'https://raw.githubusercontent.com/removeif/blog_image/master/img/2019/20190802135550.png'
+share:
+    type: sharejs
+    install_url: ''
+sidebar:
+    left:
+        sticky: true
+    right:
+        sticky: false
+widgets:
+    -
+        position: left
+        type: toc
+        index: false
+    -
+        position: left
+        type: profile
+        author: FlyingFishSauce
+        author_title: 尚未执佩剑，转眼即江湖
+        location: China
+        avatar: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png'
+        avatar_rounded: true
+        gravatar: 
+        follow_link: 'https://github.com/ppoffice'
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: 'https://github.com/qyjs'
+            Weibo:
+                icon: fab fa-weibo
+                url: 'https://weibo.com'
+            Email:
+                icon: fa fa-envelope
+                url: 'mailto:13003138375@163.com'
+            Next:
+                icon: fab fa-dribbble
+                url: 'https://qyjs.github.io/qyjs.io'
+            RSS:
+                icon: fas fa-rss
+                url: /atom.xml
+        has_hitokoto: true
+    -
+        position: left
+        type: links
+        links:
+            Hexo: 'https://hexo.io'
+            Bulma: 'https://bulma.io'
+    -
+        position: right
+        type: latest_comment
+    -
+        position: right
+        type: recent_posts
+    -
+        position: right
+        type: categories
+    -
+        position: right
+        type: archives
+    -
+        position: right
+        type: tags
+    -
+        position: right
+        type: subscribe_email
+        description: 
+        feedburner_id: ''
+    -
+        position: right
+        type: adsense
+adsense_client_id: 
+adsense_slot_id: '5134765588'
+article_head_has_ad: true
+comment_head_has_ad: true
+index_zero_position_ad: true
+index_ad_positions: '2,5,9'
+plugins:
+    animejs: true
+    back_to_top: true
+    baidu_analytics:
+        tracking_id: 
+    busuanzi: true
+    cnzz:
+        id: 
+        web_id: 
+    gallery: true
+    google_analytics:
+        tracking_id: 
+    hotjar:
+        site_id: 
+    katex: false
+    mathjax: false
+    outdated_browser: false
+    progressbar: true
+providers:
+    cdn: loli
+    fontcdn: loli
+    iconcdn: loli
+footer_copyright_dsec: '© 版权说明：[本网站所有内容均收集于互联网或自己创作,<br />&nbsp;&nbsp;&nbsp;&nbsp;方便于网友与自己学习交流，如有侵权，请<a href="/message" target="_blank">留言</a>，立即处理]<br />'
+website_start_time: '2018/11/11 00:00:00'
+footer_registered_no: 川ICP备88888888号-8（测试）
+side_music_netease_id: 2364053447
+busuanzi_only_count: false
+has_live_2D_switch: true
+use_pjax: true

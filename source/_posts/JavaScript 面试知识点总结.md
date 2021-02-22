@@ -10,6 +10,7 @@ thumbnail: ""
 
 本部分主要是笔者在复习 JavaScript 相关知识和一些相关面试题时所做的笔记，如果出现错误，希望大家指出！
 
+<!-- more -->
 ### 目录
 
 - [JavaScript 面试知识点总结](#javascript-面试知识点总结)

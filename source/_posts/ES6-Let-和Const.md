@@ -19,6 +19,8 @@ wrong_hash_message: 不好意思，信息无法验证！
 
 ## ES6 Let 和 Const
 
+<!-- more -->
+
 ### 题目
 
 #### 1. 二维数组中的查找

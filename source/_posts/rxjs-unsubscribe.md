@@ -1,6 +1,6 @@
 ---
 title: rxjs-unsubscribe
-date: 2019-10-21 21:55:38
+date: 2018-10-21 21:55:38
 tags: Angular
 categories: Angular
 thumbnail: ""
@@ -13,6 +13,8 @@ thumbnail: ""
 What is a Subscription? A Subscription is an object that represents a disposable resource, usually the execution of an Observable. A Subscription has one important method,unsubscribe, that takes no argument and just disposes the resource held by the subscription
 </p>
 </blockquote>
+
+<!-- more -->
 
 从此用RxJS订阅的时候，时刻都不忘调用unsubscribe()以防内存泄漏。对于结束Observable，释放内存的方式有三种方式：
 

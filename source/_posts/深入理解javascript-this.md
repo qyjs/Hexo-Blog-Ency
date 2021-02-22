@@ -16,6 +16,7 @@ thumbnail: ""
 
 在JS引擎运行global code之前，会创建一个全局执行上下文压入执行栈的栈底，这个全局执行上文的ThisBinding绑定的是全局对象，在浏览器里指的就是window。
 
+<!-- more -->
 ## function code的this
 
 在文章【[JS：深入理解JavaScript-词法环境](https://limeii.github.io/2019/05/js-lexical-environment/)】提到过JavaScript是静态作用域，词法环境是由代码结构决定的，开发把代码写成什么样，词法环境就是怎么样，跟方法在哪里调用没有关系。但是对于函数的this刚好反过来，跟代码在哪里定义没有关系，而跟代码在哪里调用有关系。一般我们调用函数有以下四种方式：

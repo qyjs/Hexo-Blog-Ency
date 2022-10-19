@@ -1,4 +1,5 @@
 ---
+uuid: 17c03d84-de59-c6a2-7564-b053287137ea
 title: 安装、部分配置icarus主题中文版
 categories:
   - 工具教程

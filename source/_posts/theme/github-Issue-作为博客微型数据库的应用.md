@@ -1,4 +1,5 @@
 ---
+uuid: 5642d8a1-c55b-9e57-8312-fc1c239a6f37
 title: github Issue 作为博客微型数据库的应用
 toc: true
 recommend: 1

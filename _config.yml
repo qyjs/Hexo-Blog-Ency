@@ -9,7 +9,7 @@ welcome_message: 主要是记录个人对技术的理解和开发过程中遇到
 description: 嗨，我是QYJS，一名前端开发者（后端learning）
 keywords: qyjs
 author: qyjs
-language: zh-CN
+language:
 timezone:
 
 # URL

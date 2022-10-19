@@ -1,14 +1,14 @@
 version: 4.0.0
 variant: default
-logo: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/logo.png'
+logo: 'https://img1.imgtp.com/2022/07/06/8CWtxPzp.png'
 head:
-    favicon: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/favicon.png'
-    canonical_url: 
+    favicon: 'https://img1.imgtp.com/2022/07/06/8CWtxPzp.png'
+    canonical_url:
     open_graph:
         title: QYJS
         type: blog
         url: 'https://qyjs.github.io/'
-        image: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png'
+        image: 'https://img1.imgtp.com/2022/07/06/8CWtxPzp.png'
         site_name: FlyingFishSauce
         author: QYJS
         description: demo
@@ -102,7 +102,7 @@ widgets:
         author: FlyingFishSauce
         author_title: QYJS
         location: China
-        avatar: 'https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png'
+        avatar: 'https://img1.imgtp.com/2022/07/06/8CWtxPzp.png'
         avatar_rounded: true
         gravatar: 
         follow_link: 'https://github.com/qyjs'

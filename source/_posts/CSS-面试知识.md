@@ -1,15 +1,15 @@
 ---
+uuid: b6a6890e-9154-7fb1-3bb4-1b1bbe285963
 title: CSS 面试知识点总结
 date: 2021-01-20 15:28:18
 tags: CSS
 layout: post
 categories: CSS
-thumbnail: ""
+thumbnail: "https://img1.imgtp.com/2022/07/06/8CWtxPzp.png"
 ---
 ## CSS 面试知识点总结
 
 本部分主要是笔者在复习 CSS 相关知识和一些相关面试题时所做的笔记，如果出现错误，希望大家指出！
-
 
 <!-- more -->
 ### 目录
@@ -1050,7 +1050,6 @@ IFC指的是行级格式化上下文，它有这样的一些布局规则：
 ```
 
 详细资料可以参考：
-[《[译]:BFC 与 IFC》](https://segmentfault.com/a/1190000004466536#articleHeader5)
 [《BFC 和 IFC 的理解（布局）》](https://blog.csdn.net/paintandraw/article/details/80401741)
 
 #### 29.请解释一下为什么需要清除浮动？清除浮动的方式

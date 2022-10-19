@@ -1,4 +1,5 @@
 ---
+uuid: 66b14c66-dae5-8fed-bf21-f5b991139be6
 title: 博客图片上传picgo工具github图传使用
 toc: true
 keywords: java

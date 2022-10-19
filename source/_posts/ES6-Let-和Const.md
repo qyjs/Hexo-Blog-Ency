@@ -1,4 +1,5 @@
 ---
+uuid: 09565175-251c-a40b-2efc-1fca5c1ccd03
 title: ES6 Let 和 Const
 date: 2019-09-21 15:28:18
 tags: ES6

@@ -1,4 +1,5 @@
 ---
+uuid: a665ba2f-efbe-2b85-958b-791d05310d88
 title: 博客中gitalk最新评论的获取
 toc: true
 recommend: 2

@@ -1,4 +1,5 @@
 ---
+uuid: 81ab3aeb-bf44-8f4c-60ee-d58fbe68585e
 title: github page网站cdn优化加速
 toc: true
 keywords: categories-tool

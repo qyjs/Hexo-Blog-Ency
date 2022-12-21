@@ -5,7 +5,7 @@ date: 2021-01-20 15:28:18
 tags: CSS
 layout: post
 categories: CSS
-thumbnail: "https://img1.imgtp.com/2022/07/06/8CWtxPzp.png"
+thumbnail: "https://img1.imgtp.com/2022/12/21/4xIksU7F.jpg"
 ---
 ## CSS 面试知识点总结
 
@@ -53,7 +53,7 @@ thumbnail: "https://img1.imgtp.com/2022/07/06/8CWtxPzp.png"
     - [35.浏览器是怎样解析 CSS 选择器的？](#35浏览器是怎样解析-css-选择器的)
     - [36.在网页中应该使用奇数还是偶数的字体？为什么呢？](#36在网页中应该使用奇数还是偶数的字体为什么呢)
     - [37.margin 和 padding 分别适合什么场景使用？](#37margin-和-padding-分别适合什么场景使用)
-    - [38.抽离样式模块怎么写，说出思路，有无实践经验？[阿里航旅的面试题]](#38抽离样式模块怎么写说出思路有无实践经验阿里航旅的面试题)
+    - [38.抽离样式模块怎么写，说出思路，有无实践经验？\[阿里航旅的面试题\]](#38抽离样式模块怎么写说出思路有无实践经验阿里航旅的面试题)
     - [39.简单说一下 css3 的 all 属性](#39简单说一下-css3-的-all-属性)
     - [40.为什么不建议使用统配符初始化 css 样式](#40为什么不建议使用统配符初始化-css-样式)
     - [41.absolute 的 containingblock（包含块）计算方式跟正常流有什么不同？](#41absolute-的-containingblock包含块计算方式跟正常流有什么不同)

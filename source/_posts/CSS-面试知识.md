@@ -5,7 +5,7 @@ date: 2021-01-20 15:28:18
 tags: CSS
 layout: post
 categories: CSS
-thumbnail: "https://img1.imgtp.com/2022/12/21/4xIksU7F.jpg"
+thumbnail: "https://static-argvchs.netlify.app/images/background.jpg"
 ---
 ## CSS 面试知识点总结
 

@@ -1,8 +1,8 @@
 version: 4.0.0
 variant: default
-logo: 'https://img1.imgtp.com/2022/12/21/4xIksU7F.jpg'
+logo: 'https://static-argvchs.netlify.app/images/background.jpg'
 head:
-    favicon: 'https://img1.imgtp.com/2022/12/21/4xIksU7F.jpg'
+    favicon: 'https://static-argvchs.netlify.app/images/background.jpg'
     canonical_url:
     open_graph:
         title: QYJS
@@ -102,7 +102,7 @@ widgets:
         author: FlyingFishSauce
         author_title: QYJS
         location: China
-        avatar: 'https://img1.imgtp.com/2022/12/21/4xIksU7F.jpg'
+        avatar: 'https://static-argvchs.netlify.app/images/background.jpg'
         avatar_rounded: true
         gravatar: 
         follow_link: 'https://github.com/qyjs'

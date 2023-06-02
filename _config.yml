@@ -142,7 +142,7 @@ theme: amazing
 deploy:
   type: git
   repository: https://github.com/qyjs/qyjs.github.io.git
-  branch: master
+  branch: main
 
 feed:
   type: atom
